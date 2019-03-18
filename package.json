@@ -1,0 +1,10 @@
+{
+  "name": "nodedns",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node ./scripts/start"
+  },
+  "dependencies": {
+    "hot-shots": "^6.1.1"
+  }
+}
